@@ -1,0 +1,7 @@
+#videos {
+    text-align: center;
+}
+#videos iframe {
+    width: 80%;
+    height: 80%;
+}
